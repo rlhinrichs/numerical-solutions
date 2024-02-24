@@ -6,21 +6,22 @@ These projects utilize Python's NumPy and SciPy libraries alone to demonstration
 <p></p>
 Four projects explore numerical methods in the solution of systems of linear equations.
 <p></p>
-- HW1 <br>
-- HW2 <br>
-- HW3 <br>
-- HW4 <br>
+- <b>HW1</b>: <br>
+- <b>HW2</b>: <br>
+- <b>HW3</b>: <br>
+- <b>HW4</b>: <br>
 <p></p>
 <h3>Partial Differential Equations</h3>
 <p></p>
 Two projects explore numerical methods in the solution of differential equations.
 <p></p>
-- HW5: exploring solutions to second-order boundary value problems <br>
+- <b>HW5</b>: exploring solutions to second-order boundary value problems <br>
 -- First Central Difference Method <br>
 -- Finite Difference Method <br>
 -- Newton-Raphson Iterative Method <br>
 <p></p>
-- HW6: exploring solutions to elliptical, parabolic, and hyperbolic partial differential equations <br>
+- <b>HW6</b>: exploring solutions to elliptical, parabolic, and hyperbolic partial differential equations
+<p></p>
 -- Finite Difference Method <br>
 -- Gauss-Seidel Iterative Method <br>
 -- Forward-Difference Method (Forward-Time Central Space Scheme) <br>
