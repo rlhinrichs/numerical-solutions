@@ -23,14 +23,13 @@ Code with output can be viewed <a href="https://www.dropbox.com/scl/fi/rhs8hr7pw
 Two projects explore numerical methods in the solution of differential equations.
 <p></p>
 - <b>HW5</b>: exploring solutions to second-order boundary value problems <br>
-Code with output can be viewed <a href="https://www.dropbox.com/scl/fi/5g3gcug93dltcsg4ao5yt/HW5_Hinrichs.pdf?rlkey=ut3v267mz9l3zm85qm07dc43v&dl=0">here</a>.
+Code with output can be viewed <a href="https://www.dropbox.com/scl/fi/5g3gcug93dltcsg4ao5yt/HW5_Hinrichs.pdf?rlkey=ut3v267mz9l3zm85qm07dc43v&dl=0">here</a>. <br>
 -- First Central Difference Method <br>
 -- Finite Difference Method <br>
 -- Newton-Raphson Iterative Method <br>
 <p></p>
 - <b>HW6</b>: exploring solutions to elliptical, parabolic, and hyperbolic partial differential equations <br>
-Code with output can be viewed <a href="https://www.dropbox.com/scl/fi/wf9c86aomrq86o128xhu6/HW6_Hinrichs.pdf?rlkey=uryqk1r4tijfaoal38ufdqzex&dl=0">here</a>.
-<p></p>
+Code with output can be viewed <a href="https://www.dropbox.com/scl/fi/wf9c86aomrq86o128xhu6/HW6_Hinrichs.pdf?rlkey=uryqk1r4tijfaoal38ufdqzex&dl=0">here</a>. <br>
 -- Finite Difference Method <br>
 -- Gauss-Seidel Iterative Method <br>
 -- Forward-Difference Method (Forward-Time Central Space Scheme) <br>
