@@ -1,4 +1,7 @@
 # numerical-solutions
+🧮 Numerical Methods in Science & Engineering
+<p></p>
+Six projects exploring numerical methods in the solution of systems of linear and differential equations.
 <p></p>
 These projects utilize Python's NumPy and SciPy libraries alone to demonstration solution techniques, and Matplotlib to demonstrate the solutions graphically.
 <p></p>
